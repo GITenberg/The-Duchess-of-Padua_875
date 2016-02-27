@@ -1,0 +1,36 @@
+_repo: The-Duchess-of-Padua_875
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: '''The Duchess of Padua'', written in 1883, is a tragic melodrama that
+  centres around a young man named Guido Ferranti who has come to Padua to learn the
+  secret of his birth. There he is told that his father''s life was ruined by the
+  current duke of Padua; Guido is convinced that he should revenge his father''s life
+  by murdering the duke. He agrees at first to undertake this mission, but later balks
+  at the task, only for it to be carried out by his lover, Beatrice, the wife of the
+  murdered Duke. The play ends in further bloodshed, with the double suicide of the
+  lovers.'
+gutenberg_issued: '1997-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Revenge -- Drama'
+- !lcsh 'English drama -- 19th century'
+- !lcc 'PR'
+- !lcsh 'Padua (Italy) -- Drama'
+- !lcsh 'Tragedies'
+title: The Duchess of Padua
+url: http://www.gutenberg.org/ebooks/875
