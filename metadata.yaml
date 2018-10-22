@@ -1,5 +1,5 @@
 _repo: The-Duchess-of-Padua_875
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -38,5 +38,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Padua (Italy) -- Drama'
 - !lcsh 'Tragedies'
+- GITenberg
 title: The Duchess of Padua
 url: http://www.gutenberg.org/ebooks/875
